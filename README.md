@@ -251,6 +251,15 @@ Hovering over any stock item row reveals:
 
 ---
 
+## Dashboard Screenshots (Click to enlarge) :
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Customers.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Employees.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Stock%20Items.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Tool%20tip.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Model.png">
+
+---
+
 ## 📁 File Structure
 
 ```
@@ -356,12 +365,9 @@ This **Sales Analytics Dashboard** showcases the full data analytics pipeline �
 ---
 
 ## 👨‍💼 Author
-
+Mohamed Nofal
+Data & Business Analyst  
+Transforming raw data into actionable business insights.
 > Built with ❤️ using Power BI
 > Feel free to ⭐ the repo if you found it useful!
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
