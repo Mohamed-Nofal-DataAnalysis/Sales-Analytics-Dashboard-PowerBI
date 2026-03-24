@@ -249,16 +249,32 @@ Hovering over any stock item row reveals:
 - Matching **thematic icons** per dashboard (customers group icon, handshake for employees, factory/truck for stock)
 - **Custom Tooltip Page** — a separate Power BI tooltip report page showing Sales, Profit, and Profit Margin % on hover
 
+### 🎨 Figma Template Design
+Before building the dashboards in Power BI, the entire layout was **designed as a template in Figma** first:
+
+- **Wireframed all 3 dashboard layouts** in Figma — defining card positions, chart placeholders, KPI areas, and navigation bar structure before touching Power BI
+- **Designed the color system** — warm beige background (`#F5EFE6`), brown accent (`#8B6343`), and light card surfaces — all defined as Figma styles and then replicated exactly in Power BI
+- **Created reusable components** in Figma — KPI cards, nav bar, icon badges, and tooltip card were built as components so the design stayed consistent across all 3 pages
+- **Exported assets** — icons, the Sales Logo, and background elements were exported from Figma as PNG/SVG and imported directly into Power BI
+- **Used Figma as the single source of design truth** — any layout decision was made in Figma first, ensuring the final Power BI report matched the intended design pixel-perfectly
+
 ---
 
 ## Dashboard Screenshots (Click to enlarge) :
+
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Customers.png">
+
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Employees.png">
+
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Stock%20Items.png">
+
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Tool%20tip.png">
+
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/Sales-Analytics-Dashboard-PowerBI/blob/main/Model.png">
 
 ---
+
+
 
 ## 📁 File Structure
 
@@ -370,4 +386,3 @@ Data & Business Analyst
 Transforming raw data into actionable business insights.
 > Built with ❤️ using Power BI
 > Feel free to ⭐ the repo if you found it useful!
-
